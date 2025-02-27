@@ -25,7 +25,6 @@ riscv64-unknown-elf-objdump -d sum1ton.o | less
 
 n
 ![image](https://github.com/user-attachments/assets/55da01fb-3412-4eb3-8787-b740ecdd6528)
-
 -O1 option => 15 instructions in "main" 
 (0x101c0-0x10184)/4 = 15
 
@@ -51,6 +50,7 @@ spike pk sum1ton.o
 ![image](https://github.com/user-attachments/assets/f9ab843a-c151-4cda-bcd8-2b63b9d4e7dc)
 
 spike -d pk sum1ton.o
+
 ![image](https://github.com/user-attachments/assets/cb5522bd-593d-44c9-8b6e-6886ddb0c5bf)
 
 
