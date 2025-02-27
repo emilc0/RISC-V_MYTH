@@ -262,7 +262,7 @@ Complete Instruction Decode, Slide 44
 https://makerchip.com/sandbox/00Rf2h2jZ/0mwhjjg#
 
 # D5_SK2_L4
-CompleteALU, Slide 45
+Complete ALU, Slide 45
 https://makerchip.com/sandbox/00Rf2h2jZ/0nZh77R#
 
 # D5_SK3_L1
@@ -278,7 +278,7 @@ Load Data, Slide 51
 https://makerchip.com/sandbox/00Rf2h2jZ/0KOh2qA#
 
 # D5_SK3_L4
-Load/Stire in Program, Slide 52
+Load/Store in Program, Slide 52
 https://makerchip.com/sandbox/00Rf2h2jZ/0LghRPE#
 
 # D5_SK3_L5
