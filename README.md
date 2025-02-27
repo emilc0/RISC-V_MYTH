@@ -1,4 +1,4 @@
-# RISC-V_MYTH
+# RISC-V Based MYTH Workshop, 19-28 Feb 2025
 
 
 # D1_SK2_L1
