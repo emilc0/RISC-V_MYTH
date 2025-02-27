@@ -269,7 +269,7 @@ https://makerchip.com/sandbox/00Rf2h2jZ/0nZh77R#
 Redirect Loads, Slide 48
 https://makerchip.com/sandbox/00Rf2h2jZ/0pghnzn#
 
-# D5_SK3_L2 (Lab)
+# D5_SK3_L2
 Load Data, Slide 49
 https://makerchip.com/sandbox/00Rf2h2jZ/0qjh8OO#
 
