@@ -88,6 +88,7 @@ gcc unsignedHighest.c && ./a.out
 ![image](https://github.com/user-attachments/assets/c167b5f6-66b2-4222-9ea2-5fd9a80fb00f)
 
 Task: find the bug on the presentation:
+
 ![image](https://github.com/user-attachments/assets/5a0907d8-31cb-40b2-8674-863a68361648)
 
 ![image](https://github.com/user-attachments/assets/11dea8cc-2678-4fe3-aa5f-d008809c7b5e)
