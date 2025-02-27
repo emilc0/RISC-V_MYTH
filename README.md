@@ -220,7 +220,7 @@ Branches, Slide 21
 https://makerchip.com/sandbox/00Rf2h2jZ/03lhpp0#
 
 # D4_SK3_L7
-Branches, slide 22
+Branches, Slide 22
 https://makerchip.com/sandbox/00Rf2h2jZ/0j2hnn4#
 
 # D4_SK3_L8
