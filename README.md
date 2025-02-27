@@ -133,6 +133,8 @@ cd riscv_workshop_collaterals/lab
 
 
 
+
+
 # D3_SK1_L3 
 Makerchip Platform, Slide 12
 https://makerchip.com/sandbox/00Rf2h2jZ/00ghO7
@@ -218,7 +220,7 @@ Register File Read (part 2), Slide 17
 https://makerchip.com/sandbox/00Rf2h2jZ/0Vmhxxz#
 
 # D4_SK3_L3
-ALU, slide 18
+ALU, Slide 18
 https://makerchip.com/sandbox/00Rf2h2jZ/0Z4h55n
 
 # D4_SK3_L4
