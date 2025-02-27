@@ -119,13 +119,168 @@ cd riscv_workshop_collaterals/lab
 
 
 
+
+
 # D3_SK1_L3 
 Makerchip Platform, Slide 12
-![image](https://github.com/user-attachments/assets/d5f297e1-3908-4e3d-990f-51dbe5e78c70)
 https://makerchip.com/sandbox/00Rf2h2jZ/00ghO7
 
 Combinatorial Logic, Slide 13
 https://makerchip.com/sandbox/00Rf2h2jZ/0g5hXz
+
+Vectors, Slide 14
+https://makerchip.com/sandbox/00Rf2h2jZ/0nZh8l
+
+Mux, Slide 15
+https://makerchip.com/sandbox/00Rf2h2jZ/0oYhOK
+
+Combinatorial Calculator, Slide 16
+https://makerchip.com/sandbox/00Rf2h2jZ/0pghYA
+
+# D3_SK2_L1
+Counter, Slide 21
+https://makerchip.com/sandbox/00Rf2h2jZ/0qjhqk#
+
+Sequential Calculator, Slide 23
+https://makerchip.com/sandbox/00Rf2h2jZ/0xGhYj
+
+# D3_SK3_L3
+Pipeline, Slide 34
+https://makerchip.com/sandbox/00Rf2h2jZ/0Anhkx
+
+#D3_SK3_L4
+Counter and Calculator in Pipeline, Slide 35
+https://makerchip.com/sandbox/00Rf2h2jZ/0GZhv5#
+
+2-Cycle Calculator, Slide 36
+https://makerchip.com/sandbox/00Rf2h2jZ/0KOhVw#
+
+# D3_SK4_L4
+2-Cycle Calculator with Validity, Slide 41
+https://makerchip.com/sandbox/00Rf2h2jZ/0mwhgE#
+
+# D3_SK4_L5
+Calculator with Single-Value Memory, Slide 43
+https://makerchip.com/sandbox/00Rf2h2jZ/0Bghwp#
+
+# D3_SK5_L1
+Hierarchy, Slide 45
+https://makerchip.com/sandbox/00Rf2h2jZ/0DRhEq
+
+# D4_SK2_L1
+Next PC, Slide 6
+https://makerchip.com/sandbox/00Rf2h2jZ/0pghnNo#
+
+Fetch (part 1), Slide 7
+https://makerchip.com/sandbox/00Rf2h2jZ/0pghnNo#
+
+Fetch (part 2), Slide 8
+https://makerchip.com/sandbox/00Rf2h2jZ/0qjh8Pr#
+
+# D4_SK2_L3
+Instruction Type Decode, Slide 10
+https://makerchip.com/sandbox/00Rf2h2jZ/0xGh148#
+
+#D4_SK2_L4
+Instruction Immediate Decode, Slide 10
+https://makerchip.com/sandbox/00Rf2h2jZ/0y8hrzR#
+
+# D4_SK2_L5
+Instruction Decode, Slide 11
+https://makerchip.com/sandbox/00Rf2h2jZ/0DRh5KE#
+
+# D4_SK2_L6
+RISC-V Instruction Field Decode, Slide 12
+https://makerchip.com/sandbox/00Rf2h2jZ/0Bgh79Y#
+
+# D4_SK2_L7
+Instruction Decode, Slide 13
+https://makerchip.com/sandbox/00Rf2h2jZ/0Elh3JZ#
+
+# D4_SK3_L1
+Register File Read, Slide 16
+https://makerchip.com/sandbox/00Rf2h2jZ/0Nxh00M#
+
+# D4_SK3_L2
+Register File Read (part 2), Slide 17
+https://makerchip.com/sandbox/00Rf2h2jZ/0Vmhxxz#
+
+# D4_SK3_L3
+ALU, slide 18
+https://makerchip.com/sandbox/00Rf2h2jZ/0Z4h55n
+
+# D4_SK3_L4
+Register File Write, Slide 20
+https://makerchip.com/sandbox/00Rf2h2jZ/01jhMMj#
+
+# D4_SK3_L6
+Branches, Slide 21
+https://makerchip.com/sandbox/00Rf2h2jZ/03lhpp0#
+
+# D4_SK3_L7
+Branches, slide 22
+https://makerchip.com/sandbox/00Rf2h2jZ/0j2hnn4#
+
+# D4_SK3_L8
+Testbench, Slide 25
+https://makerchip.com/sandbox/00Rf2h2jZ/0k5hOOD#
+
+# D5_SK1_L2
+3-Cycle $valid, Slide 33
+https://makerchip.com/sandbox/00Rf2h2jZ/0lOh220#
+
+# D5_SK1_L3
+3-Cycle RISC-V, Slide 36
+https://makerchip.com/sandbox/00Rf2h2jZ/0qjh88r#
+
+# D5_SK1_L4
+3-Cycle RISC-V, Slide 37
+https://makerchip.com/sandbox/00Rf2h2jZ/0wjhGGj#
+
+# D5_SK2_L1
+Register File Bypass, Slide 39
+https://makerchip.com/sandbox/00Rf2h2jZ/0y8hrrR#
+
+# D5_SK2_L2
+Branches, Slide 42
+https://makerchip.com/sandbox/00Rf2h2jZ/0k5hOOV#
+
+# D5_SK2_L3
+Complete Instruction Decode, Slide 44
+https://makerchip.com/sandbox/00Rf2h2jZ/0mwhjjg#
+
+# D5_SK2_L4
+CompleteALU, Slide 45
+https://makerchip.com/sandbox/00Rf2h2jZ/0nZh77R#
+
+# D5_SK3_L1
+Redirect Loads, Slide 48
+https://makerchip.com/sandbox/00Rf2h2jZ/0pghnzn#
+
+# D5_SK3_L2 (Lab)
+Load Data, Slide 49
+https://makerchip.com/sandbox/00Rf2h2jZ/0qjh8OO#
+
+# D5_SK3_L3
+Load Data, Slide 51
+https://makerchip.com/sandbox/00Rf2h2jZ/0KOh2qA#
+
+# D5_SK3_L4
+Load/Stire in Program, Slide 52
+https://makerchip.com/sandbox/00Rf2h2jZ/0LghRPE#
+
+# D5_SK3_L5
+Jumps, Slide 53
+https://makerchip.com/sandbox/00Rf2h2jZ/0Mjhq5W#
+
+
+
+
+
+
+
+
+
 
 
 
