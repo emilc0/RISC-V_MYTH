@@ -38,19 +38,19 @@ riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c
 ![image](https://github.com/user-attachments/assets/9c3352ee-8d59-4237-a844-a476c9b4de8a)
 
 ![image](https://github.com/user-attachments/assets/acd85e10-0181-4188-943a-88145891a8bd)
-
 0x100e0-0x100b0=0x30 => 12 instructions
 
+or:
 riscv64-unknown-elf-nm -S sum1ton.o | grep main
 ![image](https://github.com/user-attachments/assets/d269c0f5-21f6-484e-9a12-d15f7ec00325)
+0x30 => 12 instructions
 
+# D1_SK2_L3
 
-D1_SK2_L3 (lab)
 spike pk sum1ton.o
 ![image](https://github.com/user-attachments/assets/f9ab843a-c151-4cda-bcd8-2b63b9d4e7dc)
 
 spike -d pk sum1ton.o
-
 ![image](https://github.com/user-attachments/assets/cb5522bd-593d-44c9-8b6e-6886ddb0c5bf)
 
 
@@ -86,7 +86,7 @@ riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o unsignedHighest.o unsi
 gcc unsignedHighest.c && ./a.out
 ![image](https://github.com/user-attachments/assets/c167b5f6-66b2-4222-9ea2-5fd9a80fb00f)
 
-Task: bug to be found in the presentation:
+Task: find the bug on the presentation:
 ![image](https://github.com/user-attachments/assets/5a0907d8-31cb-40b2-8674-863a68361648)
 
 ![image](https://github.com/user-attachments/assets/11dea8cc-2678-4fe3-aa5f-d008809c7b5e)
@@ -116,6 +116,16 @@ riscv64-unknown-elf-objdump -d 1to9_custom.o | less
 cd riscv_workshop_collaterals/lab
 ./rv32im.sh
 ![image](https://github.com/user-attachments/assets/6ab3f221-ca21-4866-8fa7-9268a2762a5e)
+
+
+
+# D3_SK1_L3 
+Makerchip Platform, Slide 12
+![image](https://github.com/user-attachments/assets/d5f297e1-3908-4e3d-990f-51dbe5e78c70)
+https://makerchip.com/sandbox/00Rf2h2jZ/00ghO7
+
+Combinatorial Logic, Slide 13
+https://makerchip.com/sandbox/00Rf2h2jZ/0g5hXz
 
 
 
