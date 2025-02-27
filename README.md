@@ -3,6 +3,7 @@
 
 # D1_SK2_L1
 gedit sum1ton.c&
+
 ![image](https://github.com/user-attachments/assets/5694ed38-b4c2-4308-85f7-1d3493cf4814)
 
 gcc sum1ton.c && ./a.out
@@ -70,6 +71,7 @@ q
 # D1_SK3_L3
 
 nedit unsignedHighest.c &
+
 ![image](https://github.com/user-attachments/assets/b02eab5a-e07d-4f47-a700-301c4a7f9622)
 
 riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o unsignedHighest.o unsignedHighest.c
@@ -93,9 +95,11 @@ Task: bug to be found in the presentation:
 # D2_SK2_L2
 
 nedit 1to9_custom.c &
+
 ![image](https://github.com/user-attachments/assets/e6d0705c-9f8d-409a-ac99-963de94869a2)
 
 nedit load.S &
+
 ![image](https://github.com/user-attachments/assets/14f949a1-b96b-40d7-9f9b-ff2856d17cfa)
 
 
