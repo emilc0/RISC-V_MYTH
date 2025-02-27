@@ -56,15 +56,25 @@ spike -d pk sum1ton.o
 
 
 until pc 0 100b0
+
 reg 0 a2
-“enter” = next instruction
+
+“enter”
+
 reg 0 a2
+
 reg 0 a0
+
 “enter”
+
 reg 0 a0
+
 reg 0 sp
+
 “enter”
+
 reg 0 sp
+
 q
 ![image](https://github.com/user-attachments/assets/90687f30-c024-4709-884e-c4499e431cca)
 
