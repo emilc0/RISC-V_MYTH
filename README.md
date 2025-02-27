@@ -148,7 +148,7 @@ https://makerchip.com/sandbox/00Rf2h2jZ/0xGhYj
 Pipeline, Slide 34
 https://makerchip.com/sandbox/00Rf2h2jZ/0Anhkx
 
-#D3_SK3_L4
+# D3_SK3_L4
 Counter and Calculator in Pipeline, Slide 35
 https://makerchip.com/sandbox/00Rf2h2jZ/0GZhv5#
 
