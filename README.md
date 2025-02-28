@@ -1,7 +1,7 @@
 # RISC-V Based MYTH Workshop, 19-28 Feb 2025
 
 
-# D1_SK2_L1
+## D1_SK2_L1
 gedit sum1ton.c&
 
 ![image](https://github.com/user-attachments/assets/5694ed38-b4c2-4308-85f7-1d3493cf4814)
@@ -12,7 +12,7 @@ gcc sum1ton.c && ./a.out
 ![image](https://github.com/user-attachments/assets/30ce2dce-7049-4739-9f25-0d2095b1d19f)
 
 
-# D1_SK2_L2
+## D1_SK2_L2
 
 riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c
 ![image](https://github.com/user-attachments/assets/5678ba2c-93c3-4fc2-ab8d-b01437ab09fb)
@@ -45,7 +45,7 @@ riscv64-unknown-elf-nm -S sum1ton.o | grep main
 ![image](https://github.com/user-attachments/assets/d269c0f5-21f6-484e-9a12-d15f7ec00325)
 0x30 => 12 instructions
 
-# D1_SK2_L3
+## D1_SK2_L3
 
 spike pk sum1ton.o
 ![image](https://github.com/user-attachments/assets/f9ab843a-c151-4cda-bcd8-2b63b9d4e7dc)
@@ -79,7 +79,7 @@ q
 ![image](https://github.com/user-attachments/assets/90687f30-c024-4709-884e-c4499e431cca)
 
 
-# D1_SK3_L3
+## D1_SK3_L3
 
 nedit unsignedHighest.c &
 
@@ -104,7 +104,7 @@ Task: find the bug on the presentation:
 ![image](https://github.com/user-attachments/assets/11dea8cc-2678-4fe3-aa5f-d008809c7b5e)
 
 
-# D2_SK2_L2
+## D2_SK2_L2
 
 nedit 1to9_custom.c &
 
@@ -115,7 +115,7 @@ nedit load.S &
 ![image](https://github.com/user-attachments/assets/14f949a1-b96b-40d7-9f9b-ff2856d17cfa)
 
 
-# D2_SK2_L2
+## D2_SK2_L2
 
 riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o 1to9_custom.o 1to9_custom.c load.S && spike pk 1to9_custom.o
 ![image](https://github.com/user-attachments/assets/d6693cf6-5f81-446e-9f49-e36606bad353)
@@ -123,7 +123,7 @@ riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o 1to9_custom.o 1to9_cus
 riscv64-unknown-elf-objdump -d 1to9_custom.o | less
 ![image](https://github.com/user-attachments/assets/f16ab169-aa4f-4e0f-b585-f48d010d9f2a)
 
-# D2_SK3_L1
+## D2_SK3_L1
 
 cd riscv_workshop_collaterals/lab
 ./rv32im.sh
@@ -135,7 +135,7 @@ cd riscv_workshop_collaterals/lab
 
 
 
-# D3_SK1_L3 
+## D3_SK1_L3 
 Makerchip Platform, Slide 12
 https://makerchip.com/sandbox/00Rf2h2jZ/00ghO7
 
@@ -151,18 +151,18 @@ https://makerchip.com/sandbox/00Rf2h2jZ/0oYhOK
 Combinatorial Calculator, Slide 16
 https://makerchip.com/sandbox/00Rf2h2jZ/0pghYA
 
-# D3_SK2_L1
+## D3_SK2_L1
 Counter, Slide 21
 https://makerchip.com/sandbox/00Rf2h2jZ/0qjhqk#
 
 Sequential Calculator, Slide 23
 https://makerchip.com/sandbox/00Rf2h2jZ/0xGhYj
 
-# D3_SK3_L3
+## D3_SK3_L3
 Pipeline, Slide 34
 https://makerchip.com/sandbox/00Rf2h2jZ/0Anhkx
 
-# D3_SK3_L4
+## D3_SK3_L4
 Counter and Calculator in Pipeline, Slide 35
 https://makerchip.com/sandbox/00Rf2h2jZ/0GZhv5#
 
@@ -177,11 +177,11 @@ https://makerchip.com/sandbox/00Rf2h2jZ/0mwhgE#
 Calculator with Single-Value Memory, Slide 43
 https://makerchip.com/sandbox/00Rf2h2jZ/0Bghwp#
 
-# D3_SK5_L1
+## D3_SK5_L1
 Hierarchy, Slide 45
 https://makerchip.com/sandbox/00Rf2h2jZ/0DRhEq
 
-# D4_SK2_L1
+## D4_SK2_L1
 Next PC, Slide 6
 https://makerchip.com/sandbox/00Rf2h2jZ/0pghnNo#
 
@@ -191,105 +191,105 @@ https://makerchip.com/sandbox/00Rf2h2jZ/0pghnNo#
 Fetch (part 2), Slide 8
 https://makerchip.com/sandbox/00Rf2h2jZ/0qjh8Pr#
 
-# D4_SK2_L3
+## D4_SK2_L3
 Instruction Type Decode, Slide 10
 https://makerchip.com/sandbox/00Rf2h2jZ/0xGh148#
 
-#D4_SK2_L4
+## D4_SK2_L4
 Instruction Immediate Decode, Slide 10
 https://makerchip.com/sandbox/00Rf2h2jZ/0y8hrzR#
 
-# D4_SK2_L5
+## D4_SK2_L5
 Instruction Decode, Slide 11
 https://makerchip.com/sandbox/00Rf2h2jZ/0DRh5KE#
 
-# D4_SK2_L6
+## D4_SK2_L6
 RISC-V Instruction Field Decode, Slide 12
 https://makerchip.com/sandbox/00Rf2h2jZ/0Bgh79Y#
 
-# D4_SK2_L7
+## D4_SK2_L7
 Instruction Decode, Slide 13
 https://makerchip.com/sandbox/00Rf2h2jZ/0Elh3JZ#
 
-# D4_SK3_L1
+## D4_SK3_L1
 Register File Read, Slide 16
 https://makerchip.com/sandbox/00Rf2h2jZ/0Nxh00M#
 
-# D4_SK3_L2
+## D4_SK3_L2
 Register File Read (part 2), Slide 17
 https://makerchip.com/sandbox/00Rf2h2jZ/0Vmhxxz#
 
-# D4_SK3_L3
+## D4_SK3_L3
 ALU, Slide 18
 https://makerchip.com/sandbox/00Rf2h2jZ/0Z4h55n
 
-# D4_SK3_L4
+## D4_SK3_L4
 Register File Write, Slide 20
 https://makerchip.com/sandbox/00Rf2h2jZ/01jhMMj#
 
-# D4_SK3_L6
+## D4_SK3_L6
 Branches, Slide 21
 https://makerchip.com/sandbox/00Rf2h2jZ/03lhpp0#
 
-# D4_SK3_L7
+## D4_SK3_L7
 Branches, Slide 22
 https://makerchip.com/sandbox/00Rf2h2jZ/0j2hnn4#
 
-# D4_SK3_L8
+## D4_SK3_L8
 Testbench, Slide 25
 https://makerchip.com/sandbox/00Rf2h2jZ/0k5hOOD#
 
-# D5_SK1_L2
+## D5_SK1_L2
 3-Cycle $valid, Slide 33
 https://makerchip.com/sandbox/00Rf2h2jZ/0lOh220#
 
-# D5_SK1_L3
+## D5_SK1_L3
 3-Cycle RISC-V, Slide 36
 https://makerchip.com/sandbox/00Rf2h2jZ/0qjh88r#
 
-# D5_SK1_L4
+## D5_SK1_L4
 3-Cycle RISC-V, Slide 37
 https://makerchip.com/sandbox/00Rf2h2jZ/0wjhGGj#
 
-# D5_SK2_L1
+## D5_SK2_L1
 Register File Bypass, Slide 39
 https://makerchip.com/sandbox/00Rf2h2jZ/0y8hrrR#
 
-# D5_SK2_L2
+## D5_SK2_L2
 Branches, Slide 42
 https://makerchip.com/sandbox/00Rf2h2jZ/0k5hOOV#
 
-# D5_SK2_L3
+## D5_SK2_L3
 Complete Instruction Decode, Slide 44
 https://makerchip.com/sandbox/00Rf2h2jZ/0mwhjjg#
 
-# D5_SK2_L4
+## D5_SK2_L4
 Complete ALU, Slide 45
 https://makerchip.com/sandbox/00Rf2h2jZ/0nZh77R#
 
-# D5_SK3_L1
+## D5_SK3_L1
 Redirect Loads, Slide 48
 https://makerchip.com/sandbox/00Rf2h2jZ/0pghnzn#
 
-# D5_SK3_L2
+## D5_SK3_L2
 Load Data, Slide 49
 https://makerchip.com/sandbox/00Rf2h2jZ/0qjh8OO#
 
-# D5_SK3_L3
+## D5_SK3_L3
 Load Data, Slide 51
 https://makerchip.com/sandbox/00Rf2h2jZ/0KOh2qA#
 
-# D5_SK3_L4
+## D5_SK3_L4
 Load/Store in Program, Slide 52
 https://makerchip.com/sandbox/00Rf2h2jZ/0LghRPE#
 
-# D5_SK3_L5
+## D5_SK3_L5
 Jumps, Slide 53
 https://makerchip.com/sandbox/00Rf2h2jZ/0Mjhq5W#
 
 
 
-# Acknowledgements:
+## Acknowledgements:
 Kunal Ghosh, Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
 
 Steve Hoover, founder of Redwood EDA
