@@ -70,7 +70,8 @@ q
 ### D1_SK3_L3
 
 _nedit unsignedHighest.c &_  
-![image](https://github.com/user-attachments/assets/b02eab5a-e07d-4f47-a700-301c4a7f9622)
+![image](https://github.com/user-attachments/assets/b02eab5a-e07d-4f47-a700-301c4a7f9622)  
+[unsignedHighest.c](/sw/unsignedHighest.c)
 
 _riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o unsignedHighest.o unsignedHighest.c_  
 _spike pk unsignedHighest.o_  
@@ -93,11 +94,12 @@ Task: find the bug on the presentation:
 ### D2_SK2_L2
 
 _nedit 1to9_custom.c &_  
-![image](https://github.com/user-attachments/assets/e6d0705c-9f8d-409a-ac99-963de94869a2)
+![image](https://github.com/user-attachments/assets/e6d0705c-9f8d-409a-ac99-963de94869a2)  
+[1to9_custom.c](/sw/1to9_custom.c)
 
 _nedit load.S &_  
-![image](https://github.com/user-attachments/assets/14f949a1-b96b-40d7-9f9b-ff2856d17cfa)
-
+![image](https://github.com/user-attachments/assets/14f949a1-b96b-40d7-9f9b-ff2856d17cfa)  
+[load.S](/sw/load.S)
 
 ### D2_SK2_L2
 
