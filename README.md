@@ -166,12 +166,6 @@ https://makerchip.com/sandbox/00Rf2h2jZ/0Mjhq5W#
 
 
 
-## Acknowledgements
-Kunal Ghosh, Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
-
-Steve Hoover, founder of Redwood EDA
-
-
 
 
 
