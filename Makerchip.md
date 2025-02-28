@@ -56,13 +56,13 @@ https://makerchip.com/sandbox/00Rf2h2jZ/0KOhVw#
 [Code](c_36.tlv)   
 
 ## D3_SK4_L4
-__2-Cycle Calculator with Validity__ Slide 41
+__2-Cycle Calculator with Validity__ Slide 41  
 https://makerchip.com/sandbox/00Rf2h2jZ/0mwhgE#  
 [Screen capture](41.jpg)  
 [Code](c_41.tlv)  
 
 ## D3_SK4_L5
-__Calculator with Single-Value Memory__ Slide 43
+__Calculator with Single-Value Memory__ Slide 43  
 https://makerchip.com/sandbox/00Rf2h2jZ/0Bghwp#  
 [Screen capture](43.jpg)  
 [Code](c_43.tlv)  
