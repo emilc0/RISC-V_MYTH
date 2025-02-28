@@ -3,8 +3,7 @@
 ## RISC-V & GNU Toolchain; ABI & Verification
 
 ### D1_SK2_L1
-gedit sum1ton.c& 
-
+gedit sum1ton.c&  
 ![image](https://github.com/user-attachments/assets/5694ed38-b4c2-4308-85f7-1d3493cf4814)
 
 gcc sum1ton.c && ./a.out 
