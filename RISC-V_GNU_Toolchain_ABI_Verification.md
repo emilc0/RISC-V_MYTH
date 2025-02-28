@@ -3,7 +3,7 @@
 ### D1_SK2_L1  
 _gedit sum1ton.c &_  
 ![image](https://github.com/user-attachments/assets/5694ed38-b4c2-4308-85f7-1d3493cf4814)  
-[sum1ton.c](/sw/sum1ton.c)  
+[**sum1ton.c**](/sw/sum1ton.c)  
 
 _gcc sum1ton.c && ./a.out_  
 ![image](https://github.com/user-attachments/assets/9823db04-45a3-4ee1-a83c-d2f28857816c)  
@@ -76,7 +76,7 @@ _spike pk unsignedHighest.o_
 ![image](https://github.com/user-attachments/assets/0a4c7c2a-bcec-44b7-9023-6d38843d381a)  
 
 ![image](https://github.com/user-attachments/assets/bceb53e3-8162-477e-8aaa-3a76452ceef1)  
-[unsignedHighest.c](/sw/unsignedHighest.c)  
+[**unsignedHighest.c**](/sw/unsignedHighest.c)  
 
 _riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o unsignedHighest.o unsignedHighest.c && spike pk unsignedHighest.o_  
 _gcc unsignedHighest.c && ./a.out_  
@@ -91,11 +91,11 @@ Task: find the bug on the presentation:
 
 _nedit 1to9_custom.c &_  
 ![image](https://github.com/user-attachments/assets/e6d0705c-9f8d-409a-ac99-963de94869a2)  
-[1to9_custom.c](/sw/1to9_custom.c)  
+[**1to9_custom.c**](/sw/1to9_custom.c)  
 
 _nedit load.S &_  
 ![image](https://github.com/user-attachments/assets/14f949a1-b96b-40d7-9f9b-ff2856d17cfa)  
-[load.S](/sw/load.S)  
+[**load.S**](/sw/load.S)  
 
 ### D2_SK2_L2  
 
