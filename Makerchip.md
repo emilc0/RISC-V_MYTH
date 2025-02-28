@@ -3,10 +3,10 @@
 
 ### D3_SK1_L3 
 __Makerchip Platform__ Slide 12  
-https://makerchip.com/sandbox/00Rf2h2jZ/00ghO7      [Screen capture](12.jpg)      [Code](c_12.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/00ghO7  [<span style="color:blue">Screen capture</span>](12.jpg)  [Code](c_12.tlv)  
 
 __Combinatorial Logic__ Slide 13  
-https://makerchip.com/sandbox/00Rf2h2jZ/0g5hXz      [Screen capture](13.jpg)      [Code](c_13.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0g5hXz  [Screen capture](13.jpg)  [Code](c_13.tlv)  
 
 __Vectors__ Slide 14  
 https://makerchip.com/sandbox/00Rf2h2jZ/0nZh8l  [Screen capture](14.jpg)  [Code](c_14.tlv)  
