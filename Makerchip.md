@@ -151,6 +151,6 @@ https://makerchip.com/sandbox/00Rf2h2jZ/0LghRPE  [Code](Lab52.tlv)
 
 ### D5_SK3_L5  
 __Jumps__ Slide 53  
-https://makerchip.com/sandbox/00Rf2h2jZ/0Mjhq5W  [Code](Lab53.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0Mjhq5W  [Code](Lab53.tlv)  [Screen capture](Lab53.jpg)  
 
 
