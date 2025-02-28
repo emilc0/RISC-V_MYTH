@@ -52,11 +52,13 @@ https://makerchip.com/sandbox/00Rf2h2jZ/0mwhgE#
 
 ## D3_SK4_L5
 __Calculator with Single-Value Memory__ Slide 43
-https://makerchip.com/sandbox/00Rf2h2jZ/0Bghwp#
+https://makerchip.com/sandbox/00Rf2h2jZ/0Bghwp#  
+[Screen capture](43.jpg)
 
 ### D3_SK5_L1
 __Hierarchy__ Slide 45
-https://makerchip.com/sandbox/00Rf2h2jZ/0DRhEq
+https://makerchip.com/sandbox/00Rf2h2jZ/0DRhEq  
+[Screen capture](45.jpg)
 
 ### D4_SK2_L1
 __Next PC__ Slide 6
