@@ -38,7 +38,7 @@ _riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c_
 ![image](https://github.com/user-attachments/assets/9c3352ee-8d59-4237-a844-a476c9b4de8a)
 
 ![image](https://github.com/user-attachments/assets/acd85e10-0181-4188-943a-88145891a8bd)
-0x100e0-0x100b0=0x30 => 12 instructions  
+-Ofast option => 0x100e0-0x100b0=0x30 => 12 instructions  
 
 or:  
 _riscv64-unknown-elf-nm -S sum1ton.o | grep main_  
