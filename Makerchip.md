@@ -3,49 +3,49 @@
 
 ### D3_SK1_L3 
 __Makerchip Platform__ Slide 12  
-https://makerchip.com/sandbox/00Rf2h2jZ/00ghO7  &nbsp;  [Screen capture](/img/12.jpg)  &nbsp;  [Code](/tlv/c_12.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/00ghO7  &nbsp;  [Screen capture](/img/c_12.jpg)  &nbsp;  [Code](/tlv/c_12.tlv)  
 
 __Combinatorial Logic__ Slide 13  
-https://makerchip.com/sandbox/00Rf2h2jZ/0g5hXz  &nbsp;  [Screen capture](/img/13.jpg)  &nbsp;  [Code](/tlv/c_13.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0g5hXz  &nbsp;  [Screen capture](/img/c_13.jpg)  &nbsp;  [Code](/tlv/c_13.tlv)  
 
 __Vectors__ Slide 14  
-https://makerchip.com/sandbox/00Rf2h2jZ/0nZh8l  &nbsp;  [Screen capture](/img/14.jpg)  &nbsp;  [Code](/tlv/c_14.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0nZh8l  &nbsp;  [Screen capture](/img/c_14.jpg)  &nbsp;  [Code](/tlv/c_14.tlv)  
 
 __Mux__ Slide 15  
-https://makerchip.com/sandbox/00Rf2h2jZ/0oYhOK  &nbsp;  [Screen capture](/img/15.jpg)  &nbsp;  [Code](/tlv/c_15.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0oYhOK  &nbsp;  [Screen capture](/img/c_15.jpg)  &nbsp;  [Code](/tlv/c_15.tlv)  
 
 __Combinatorial Calculator__ Slide 16  
-https://makerchip.com/sandbox/00Rf2h2jZ/0pghYA  &nbsp;  [Screen capture](/img/16.jpg)  &nbsp;  [Code](/tlv/c_16.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0pghYA  &nbsp;  [Screen capture](/img/c_16.jpg)  &nbsp;  [Code](/tlv/c_16.tlv)  
 
 ### D3_SK2_L1  
 __Counter__ Slide 21  
-https://makerchip.com/sandbox/00Rf2h2jZ/0qjhqk  &nbsp;  [Screen capture](/img/21.jpg)  &nbsp;  [Code](/tlv/c_21.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0qjhqk  &nbsp;  [Screen capture](/img/c_21.jpg)  &nbsp;  [Code](/tlv/c_21.tlv)  
 
 __Sequential Calculator__ Slide 23  
-https://makerchip.com/sandbox/00Rf2h2jZ/0xGhYj  &nbsp;  [Screen capture](/img/23.jpg)  &nbsp;  [Code](/tlv/c_23.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0xGhYj  &nbsp;  [Screen capture](/img/c_23.jpg)  &nbsp;  [Code](/tlv/c_23.tlv)  
 
 ### D3_SK3_L3  
 __Pipeline__ Slide 34  
-https://makerchip.com/sandbox/00Rf2h2jZ/0Anhkx  &nbsp;  [Screen capture](/img/34.jpg)  &nbsp;  [Code](/tlv/c_34.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0Anhkx  &nbsp;  [Screen capture](/img/c_34.jpg)  &nbsp;  [Code](/tlv/c_34.tlv)  
 
 ### D3_SK3_L4  
 __Counter and Calculator in Pipeline__ Slide 35  
-https://makerchip.com/sandbox/00Rf2h2jZ/0GZhv5  &nbsp;  [Screen capture](/img/35.jpg)  &nbsp;  [Code](/tlv/c_35.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0GZhv5  &nbsp;  [Screen capture](/img/c_35.jpg)  &nbsp;  [Code](/tlv/c_35.tlv)  
 
 __2-Cycle Calculator__ Slide 36  
-https://makerchip.com/sandbox/00Rf2h2jZ/0KOhVw  &nbsp;  [Screen capture](/img/36.jpg)  &nbsp;  [Code](/tlv/c_36.tlv)   
+https://makerchip.com/sandbox/00Rf2h2jZ/0KOhVw  &nbsp;  [Screen capture](/img/c_36.jpg)  &nbsp;  [Code](/tlv/c_36.tlv)   
 
 ## D3_SK4_L4
 __2-Cycle Calculator with Validity__ Slide 41  
-https://makerchip.com/sandbox/00Rf2h2jZ/0mwhgE  &nbsp;  [Screen capture](/img/41.jpg)  &nbsp;  [Code](/tlv/c_41.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0mwhgE  &nbsp;  [Screen capture](/img/c_41.jpg)  &nbsp;  [Code](/tlv/c_41.tlv)  
 
 ## D3_SK4_L5
 __Calculator with Single-Value Memory__ Slide 43  
-https://makerchip.com/sandbox/00Rf2h2jZ/0Bghwp  &nbsp;  [Screen capture](/img/43.jpg)  &nbsp;  [Code](/tlv/c_43.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0Bghwp  &nbsp;  [Screen capture](/img/c_43.jpg)  &nbsp;  [Code](/tlv/c_43.tlv)  
 
 ### D3_SK5_L1  
 __Hierarchy__ Slide 45  
-https://makerchip.com/sandbox/00Rf2h2jZ/0DRhEq  &nbsp;  [Screen capture](/img/45.jpg)  &nbsp;  [Code](/tlv/c_45.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0DRhEq  &nbsp;  [Screen capture](/img/c_45.jpg)  &nbsp;  [Code](/tlv/c_45.tlv)  
 
 ### D4_SK2_L1  
 __Next PC__ Slide 6  
