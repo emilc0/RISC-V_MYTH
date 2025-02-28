@@ -2,7 +2,8 @@
 
 ### D1_SK2_L1
 _gedit sum1ton.c &_  
-![image](https://github.com/user-attachments/assets/5694ed38-b4c2-4308-85f7-1d3493cf4814)
+![image](https://github.com/user-attachments/assets/5694ed38-b4c2-4308-85f7-1d3493cf4814)  
+[sum1ton.c](/sw/sum1ton.c)  
 
 _gcc sum1ton.c && ./a.out_  
 ![image](https://github.com/user-attachments/assets/9823db04-45a3-4ee1-a83c-d2f28857816c)
