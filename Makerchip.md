@@ -4,6 +4,7 @@
 ### D3_SK1_L3 
 __Makerchip Platform__ Slide 12
 https://makerchip.com/sandbox/00Rf2h2jZ/00ghO7
+[Screen capture](12.jpg)
 
 __Combinatorial Logic__ Slide 13
 https://makerchip.com/sandbox/00Rf2h2jZ/0g5hXz
