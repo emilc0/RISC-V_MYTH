@@ -9,13 +9,13 @@ __Combinatorial Logic__ Slide 13
 https://makerchip.com/sandbox/00Rf2h2jZ/0g5hXz  &nbsp;  [Screen capture](13.jpg)  &nbsp;  [Code](c_13.tlv)  
 
 __Vectors__ Slide 14  
-https://makerchip.com/sandbox/00Rf2h2jZ/0nZh8l  [Screen capture](14.jpg)  [Code](c_14.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0nZh8l  &nbsp;  [Screen capture](14.jpg)  &nbsp;  [Code](c_14.tlv)  
 
 __Mux__ Slide 15  
-https://makerchip.com/sandbox/00Rf2h2jZ/0oYhOK  [Screen capture](15.jpg)  [Code](c_15.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0oYhOK  &nbsp;  [Screen capture](15.jpg)  &nbsp;  [Code](c_15.tlv)  
 
 __Combinatorial Calculator__ Slide 16  
-https://makerchip.com/sandbox/00Rf2h2jZ/0pghYA  [Screen capture](16.jpg)  [Code](c_16.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0pghYA  &nbsp;  [Screen capture](16.jpg)  &nbsp;  [Code](c_16.tlv)  
 
 ### D3_SK2_L1  
 __Counter__ Slide 21  
