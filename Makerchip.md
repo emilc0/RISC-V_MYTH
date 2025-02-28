@@ -11,35 +11,44 @@ https://makerchip.com/sandbox/00Rf2h2jZ/0g5hXz
 [Screen capture](13.jpg)
 
 __Vectors__ Slide 14
-https://makerchip.com/sandbox/00Rf2h2jZ/0nZh8l
+https://makerchip.com/sandbox/00Rf2h2jZ/0nZh8l  
+[Screen capture](14.jpg)
 
 __Mux__ Slide 15
-https://makerchip.com/sandbox/00Rf2h2jZ/0oYhOK
+https://makerchip.com/sandbox/00Rf2h2jZ/0oYhOK  
+[Screen capture](15.jpg)
 
 __Combinatorial Calculator__ Slide 16
-https://makerchip.com/sandbox/00Rf2h2jZ/0pghYA
+https://makerchip.com/sandbox/00Rf2h2jZ/0pghYA  
+[Screen capture](16.jpg)
 
 ### D3_SK2_L1
 __Counter__ Slide 21
-https://makerchip.com/sandbox/00Rf2h2jZ/0qjhqk#
+https://makerchip.com/sandbox/00Rf2h2jZ/0qjhqk#  
+[Screen capture](21.jpg)
 
 __Sequential Calculator__ Slide 23
-https://makerchip.com/sandbox/00Rf2h2jZ/0xGhYj
+https://makerchip.com/sandbox/00Rf2h2jZ/0xGhYj  
+[Screen capture](23.jpg)
 
 ### D3_SK3_L3
 __Pipeline__ Slide 34
-https://makerchip.com/sandbox/00Rf2h2jZ/0Anhkx
+https://makerchip.com/sandbox/00Rf2h2jZ/0Anhkx  
+[Screen capture](34.jpg)
 
 ### D3_SK3_L4
 __Counter and Calculator in Pipeline__ Slide 35
-https://makerchip.com/sandbox/00Rf2h2jZ/0GZhv5#
+https://makerchip.com/sandbox/00Rf2h2jZ/0GZhv5#  
+[Screen capture](35.jpg)
 
 __2-Cycle Calculator__ Slide 36
-https://makerchip.com/sandbox/00Rf2h2jZ/0KOhVw#
+https://makerchip.com/sandbox/00Rf2h2jZ/0KOhVw#  
+[Screen capture](36.jpg)
 
 ## D3_SK4_L4
 __2-Cycle Calculator with Validity__ Slide 41
-https://makerchip.com/sandbox/00Rf2h2jZ/0mwhgE#
+https://makerchip.com/sandbox/00Rf2h2jZ/0mwhgE#  
+[Screen capture](41.jpg)
 
 ## D3_SK4_L5
 __Calculator with Single-Value Memory__ Slide 43
