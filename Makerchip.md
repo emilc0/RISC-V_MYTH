@@ -8,6 +8,7 @@ https://makerchip.com/sandbox/00Rf2h2jZ/00ghO7
 
 __Combinatorial Logic__ Slide 13
 https://makerchip.com/sandbox/00Rf2h2jZ/0g5hXz
+[Screen capture](13.jpg)
 
 __Vectors__ Slide 14
 https://makerchip.com/sandbox/00Rf2h2jZ/0nZh8l
