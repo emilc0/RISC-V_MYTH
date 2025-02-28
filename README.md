@@ -4,9 +4,11 @@
 
 ### D1_SK2_L1
 gedit sum1ton.c& 
+
 ![image](https://github.com/user-attachments/assets/5694ed38-b4c2-4308-85f7-1d3493cf4814)
 
-gcc sum1ton.c && ./a.out
+gcc sum1ton.c && ./a.out 
+
 ![image](https://github.com/user-attachments/assets/9823db04-45a3-4ee1-a83c-d2f28857816c)
 
 ![image](https://github.com/user-attachments/assets/30ce2dce-7049-4739-9f25-0d2095b1d19f)
