@@ -59,7 +59,7 @@ https://makerchip.com/sandbox/00Rf2h2jZ/0qjh8Pr  &nbsp;  [Code](Lab8.tlv)
 
 ### D4_SK2_L3  
 __Instruction Type Decode__ Slide 10  
-https://makerchip.com/sandbox/00Rf2h2jZ/0xGh148  &nbsp;  [Code](Lab10.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0xGh148  &nbsp;  [Code](tlv/Lab10.tlv)  
 
 ### D4_SK2_L4  
 __Instruction Immediate Decode__ Slide 10  
