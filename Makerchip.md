@@ -71,7 +71,7 @@ https://makerchip.com/sandbox/00Rf2h2jZ/0DRh5KE  &nbsp;  [Code](/tlv/Lab11.tlv)
 
 ### D4_SK2_L6  
 __20. RISC-V Instruction Field Decode__ Slide 12  
-https://makerchip.com/sandbox/00Rf2h2jZ/0Bgh79Y  &nbsp;  [Code](/tlv/Lab_12.tlv)  
+https://makerchip.com/sandbox/00Rf2h2jZ/0Bgh79Y  &nbsp;  [Code](/tlv/Lab12.tlv)  
 
 ### D4_SK2_L7  
 __21. Instruction Decode__ Slide 13  
